@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KalkulatorKu</string>
+    <string name="Calculator">Kalkulator</string>
+    <string name="Balok">Balok</string>
+    <string name="Bola">Bola</string>
+    <string name="Kerucut">Kerucut</string>
+    <string name="Kubus">Kubus</string>
+    <string name="kubus">KUBUS</string>
+    <string name="masukkan_sisi">Masukkan Sisi</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="kerucut">KERUCUT</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil_volume">Hasil Volume</string>
+    <string name="masukkan_jari_jari">Masukkan Jari - Jari</string>
+    <string name="bola">BOLA</string>
+    <string name="todo">TODO</string>
+</resources>
